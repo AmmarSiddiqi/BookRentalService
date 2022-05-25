@@ -1,0 +1,5 @@
+[server]
+jwtPrivateKey = "library_jwtPrivateKey"
+db = "mongodb://localhost/library"
+
+

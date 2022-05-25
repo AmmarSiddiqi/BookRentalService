@@ -1,0 +1,4 @@
+[server]
+jwtPrivateKey = "1234"
+db = "mongodb://localhost/library"
+
